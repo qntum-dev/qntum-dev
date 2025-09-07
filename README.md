@@ -155,8 +155,18 @@ const pritam = {
 
 <br>
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400">
   <br><br>
+  
+  <div align="center" width="30">
+  <a href="https://www.buymeacoffee.com/pritammondal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
+
+
