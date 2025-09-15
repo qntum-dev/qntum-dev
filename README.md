@@ -68,12 +68,12 @@ const pritam = {
     </td>
     <td align="center" width="50%">
       <h3>🎬 MVDB - Movie Magic!</h3>
-      <a href="https://mvdb.vercel.app/">
+      <a href="https://mvdb-pm.onrender.com">
         <img src="https://s.wordpress.com/mshots/v1/https://mvdb.vercel.app?w=400" alt="MVDB" height="200"/>
       </a>
       <br><br>
       <p>
-        <a href="https://mvdb.vercel.app/"><img src="https://img.shields.io/badge/🔴_LIVE-FF6B6B?style=for-the-badge" /></a>
+        <a href="https://mvdb-pm.onrender.com"><img src="https://img.shields.io/badge/🔴_LIVE-FF6B6B?style=for-the-badge" /></a>
         <a href="https://github.com/qntum-dev/mvdb"><img src="https://img.shields.io/badge/</> CODE-4ECDC4?style=for-the-badge" /></a>
       </p>
       <p><strong>Discover movies & shows like never before!</strong></p>
