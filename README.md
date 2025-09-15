@@ -68,8 +68,8 @@ const pritam = {
     </td>
     <td align="center" width="50%">
       <h3>🎬 MVDB - Movie Magic!</h3>
-      <a href="https://mvdb-pm.onrender.com">
-        <img src="https://s.wordpress.com/mshots/v1/https://mvdb-pm.onrender.com?w=400" alt="MVDB" height="200"/>
+      <a href="https://mvdb-pm.onrender.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https://mvdb-pm.onrender.com/?w=400" alt="MVDB" height="200"/>
       </a>
       <br><br>
       <p>
